@@ -1,0 +1,35 @@
+*{
+    margin : 10px;;
+    padding: 0;
+}
+
+.search{
+    border-radius: 50px;
+    width: 200px;
+    height: 35px;
+    background-color: white;
+    color : teal;
+    border: 2px solid;
+    border-color: teal;
+    font-size: 20px;
+}
+
+.plus{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: turquoise;
+    border: 0px;
+    font-size: 33px;
+    color: white;
+}
+
+.account{
+    width: 250px;
+    height: 37px;
+    font-size: 19px;
+    color: white;
+    background-color: rgba(91,124,255);
+    border-color: black;
+    box-shadow: 5px 3px 3px black;
+}
